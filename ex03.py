@@ -7,4 +7,4 @@ mult = num1 * num2
 rest = num1 // num2
 ex= num1 ** num2
 
-print(num1,num2,sum,sub,div,mult,rest,ex)
+print(f"a soma é {num1 +num2} a divisão é {num1/num2}")
